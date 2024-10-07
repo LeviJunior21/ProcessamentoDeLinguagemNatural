@@ -24,7 +24,7 @@
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 
-## Funções de Ativação 
+## Funções de Ativação e Classificador 
 - Linear
 - Sigmoide
 - ReLu
