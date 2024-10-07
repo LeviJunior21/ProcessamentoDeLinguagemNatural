@@ -24,6 +24,13 @@
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 
+## Funções de Ativação 
+- Linear
+- Sigmoide
+- ReLu
+- Tangente Hiperbólica
+- Leaky ReLu 
+
 ## Redes Neurais e Embeddings
 - Redes Neurais Simples
 - Redes Neurais Multicamadas
