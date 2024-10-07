@@ -28,11 +28,11 @@
 - Redes Neurais Simples
 - Redes Neurais Multicamadas
 - Word Embeddings
+- Word2Vec
 - Chunks (Segmentação)
 - Overlap (Sobreposição)
 - Transformers
 - Encoder-Decoder
 - BERT (Bidirectional Encoder Representations from Transformers)
-- Prompt
 - RAG (Retrieval-Augmented Generation)
-- Word2Vec
+- Prompt
