@@ -15,7 +15,7 @@
 - Recall (Revocação)
 - NGramas
 
-## Modelos Baseados em Probabilidades ou Redes Neurais
+## Modelos Baseados em Probabilidade ou Redes Neurais
 - Naive Bayes
 - Regressão Logística
 - Rede Neural Perceptron
