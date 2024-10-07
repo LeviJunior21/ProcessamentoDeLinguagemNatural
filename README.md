@@ -29,7 +29,8 @@
 - Sigmoide
 - ReLu
 - Tangente Hiperbólica
-- Leaky ReLu 
+- Leaky ReLu
+- Softmax
 
 ## Redes Neurais e Embeddings
 - Redes Neurais Simples
