@@ -23,7 +23,6 @@
 - Decision Tree (Árvore de Decisão)
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
-- Word2Vec
 
 ## Redes Neurais e Embeddings
 - Redes Neurais Simples
@@ -36,3 +35,4 @@
 - BERT (Bidirectional Encoder Representations from Transformers)
 - Prompt
 - RAG (Retrieval-Augmented Generation)
+- Word2Vec
